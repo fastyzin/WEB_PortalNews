@@ -1,0 +1,35 @@
+.app {
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #7F00FF;
+    padding: 20px;
+    color: white;
+  }
+  
+  .main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .post {
+    background-color: #A569BD;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    border-radius: 5px;
+  }
+  
+  .footer {
+    background-color: #7F00FF;
+    padding: 10px;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
